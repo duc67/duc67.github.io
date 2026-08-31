@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Anh Duc Nguyen"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant @ NUS"
-  location         : "Singapore"
-  employer         : "National University of Singapore"
+  bio              : "PhD Student @ CMU CSD"
+  location         : "Pittsburgh, PA"
+  employer         : # URL
   uri              : # URL
   email            : "anhducn@cs.cmu.edu" 
 
