@@ -44,6 +44,3 @@ Quang Nguyen, <b>Anh Duc Nguyen</b>, Hoang H. Nguyen, Siva Theja Maguluri.
 <b>Machine Learning and Compression Workshop @ NeurIPS 2024</b>.
 
 <br>
-
-# Acknowledgement
-Across these projects, I have received tremendous support and guidance from senior collaborators—most notably [Hoang](https://sites.google.com/view/hoangt1215/home-page?authuser=0), [Quang](https://www.linkedin.com/in/quang-m-nguyen-191122b3/), [Josh](https://joshnguyen.net/), [Kimon](https://scholar.google.com/citations?user=8VQSMx4AAAAJ&hl=el), [Ali](https://alirk.github.io/), [Alp](https://alpyurtsever.github.io/), [Chonghuan](https://chwang09.github.io/), and [Wang Chi](https://cde.nus.edu.sg/isem/staff/cheung-wang-chi/). 
