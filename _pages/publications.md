@@ -40,7 +40,7 @@ Quang Nguyen, <b>Anh Duc Nguyen</b>, Hoang H. Nguyen, Siva Theja Maguluri.
 
 <b>[Layer-wise Quantization for Distributed Variational Inequalities](https://openreview.net/pdf?id=lqBdJrwiCA)</b> <br> 
 <b>Anh Duc Nguyen</b>, Ilia Markov, Ali Ramezani-Kebrya, Kimon Antonakopoulos, Dan Alistarh, Volkan Cevher.
-<b>ICML 2025</b>.
+<b>Machine Learning and Compression Workshop @ NeurIPS 2024</b>.
 
 <br>
 
